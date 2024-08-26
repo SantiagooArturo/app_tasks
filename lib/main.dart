@@ -22,6 +22,7 @@ class MyApp extends StatelessWidget {
             primarySwatch: Colors.blue,
           ),
           routerConfig: goRouter,
-        ));
+        )); 
   }
+  //prueba funcionalidad 
 }
